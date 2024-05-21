@@ -73,7 +73,6 @@ const GridExample = () => {
           rowData={rowData}
           columnDefs={columnDefs}
           defaultColDef={defaultColDef}
-          enableRangeSelection={true}
           onGridReady={onGridReady}
         />
       </div>
